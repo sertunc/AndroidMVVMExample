@@ -1,0 +1,2 @@
+rootProject.name='AndroidMVVMExample'
+include ':app'
